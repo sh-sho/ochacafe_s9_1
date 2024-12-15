@@ -170,3 +170,8 @@ cython_debug/
 
 # .tfvars files
 *.tfvars
+
+*_test.py
+
+
+
